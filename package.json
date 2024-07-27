@@ -1,0 +1,25 @@
+{
+  "name": "web3-structure-base",
+  "version": "0.0.1",
+  "description": "Web3 Structure Base",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayanesteves/web3-structure-base.git"
+  },
+  "author": "Brayan Esteves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayanesteves/web3-structure-base/issues"
+  },
+  "homepage": "https://github.com/brayanesteves/web3-structure-base#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^4.0.1"
+  }
+}
